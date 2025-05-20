@@ -5,9 +5,13 @@ This project aims to classify 21 different human emotions using synthetic facial
 Files:
 
 emotion_dataset1.csv – Clean synthetic dataset
+
 emotion_dataset_noisy.csv – Noisy version of the dataset
+
 emotion_fods.mlx – Main MATLAB Live Script for full workflow
+
 emotion_fods_script.m – Alternate MATLAB script version
+
 fods_report.pdf – Final project report
 
 How to Run:
